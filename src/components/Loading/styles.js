@@ -1,7 +1,5 @@
 import styled, { keyframes } from 'styled-components';
 
-import { colors, fonts, metrics } from '~/styles';
-
 const rotate360 = keyframes`
 
 to{
